@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#home{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    background-image: url(banner1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.text1{
+   width: 100%;
+   text-align: right;
+   margin-top: 200px;
+   margin-right: 140px;
+   
+
+}
+.text1 h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+button{
+    color: wheat;
+    background-color: #F15B22 ;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+#home2{
+    width: 100%;
+    display: flex;
+    margin: 100px;
+   margin-left: 300px;
+
+}
+.img1{
+    width: 300px;
+    height: 400px;
+}
+.home2contenttext{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.home2contenttext h2{
+    font-size: 40px;
+    
+}
+.home2contenttext h2,p{
+    margin-bottom: 10px;
+}
+#home3{
+    display: flex;
+}
+ .plans h1{
+    text-align: center;
+ }
+.divall{
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 30px;
+    
+}
+.divall img{
+    width: 80px;
+    height: 80px;
+  
+}
+.divall h3{
+    font-size: 20px;
+}
+.divall h5{
+    color: gray;
+}
+.home4text{
+    width: 90%;
+    height: 300px;
+    background-image: url(watch.png);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    margin-left:350px;
+    margin-top: 50px;
+    
+   
+}
+.home4text h6{
+    font-size: 25px;
+    color: white;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+.home4text button{
+    margin-top: 20px;
+    margin-left: 40px;
+    color: #F15B22;
+    background-color: white ;
+}
+
+#footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    display: flex;
+    
+}
+.footertext{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.footertext h2{
+    font-size: 40px;
+}
+.footertext p{
+    margin-top: 10px;
+}
+.footertext h3,h4,.footerimg{
+    margin-top: 20px;
+}
+
+.footertext2{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.footertext2 h5{
+    font-size: 40px;
+}
+.footertext2 h5,input,button{
+    margin-top: 20px;
+}
+.footertext2 input{
+    padding: 10px;
+    background-color: black;
+    border-color: white;
+    color: white;
+    
+}
