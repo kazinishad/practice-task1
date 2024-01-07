@@ -79,19 +79,20 @@ button{
 }
 .home4text{
     width: 90%;
-    height: 300px;
-    background-image: url(watch.png);
+    height: 186px;
+    background-image: linear-gradient(to right,#F15B22,transparent), url(watch.png);
     background-repeat: no-repeat;
     background-size: 700px;
     margin-left:350px;
     margin-top: 50px;
+    border-radius: 10px;
     
    
 }
-.home4text h6{
+#home4 .home4text h6{
     font-size: 25px;
     color: white;
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 40px;
 }
 .home4text button{
@@ -107,6 +108,7 @@ button{
     background-color: black;
     color: white;
     display: flex;
+    margin-top: 50px;
     
 }
 .footertext{
